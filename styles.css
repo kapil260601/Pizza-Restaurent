@@ -1,0 +1,77 @@
+/* styles.css */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .app-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .pizza-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .red-border {
+    border-color: red;
+  }
+  
+  .pizza-form {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+  
+  .order-list {
+    margin-top: 20px;
+  }
+  
+  button {
+    cursor: pointer;
+    margin-top: 5px;
+  }
+
+.Back{
+  background-color:#9BB8CD;
+}
+
+.back-1{
+  background-color: aquamarine;
+   
+}
+  .back{
+  background-color: #00425A;
+  border-radius: 20px;
+  color: white;
+
+  }
+
+  .back--1{
+    background-color: #2E8A99;
+    color: white;
+    border-radius: 10px;
+  }
+
+  .button-position{
+    margin-left: 150px;
+  }
+
+  .button-position:hover{
+    margin-left: 150px;
+    background-color: green;
+    border-radius: 30px;
+  }
+
+  .form-design {
+    margin-left: 490px;
+    margin-bottom: 50px;
+  }
+
+  .Order-design {
+    background-color: #0B666A;
+  }
